@@ -1,0 +1,64 @@
+region,rank1,team1,score1,rank2,team2,score2,winning-team,round-number,game-number
+Championship,8,North Carolina,69,1,Kansas,72,Kansas,6,1
+Final Four,2,Duke,77,8,North Carolina,81,North Carolina,5,1
+Final Four,2,Villanova,65,1,Kansas,81,Kansas,5,2
+West,4,Arkansas,69,2,Duke,78,Duke,4,1
+West,1,Gonzaga,68,4,Arkansas,74,Arkansas,3,1
+West,3,Texas Tech,73,2,Duke,78,Duke,3,2
+West,1,Gonzaga,82,9,Memphis,78,Gonzaga,2,1
+West,12,New Mexico St.,48,4,Arkansas,53,Arkansas,2,2
+West,11,Notre Dame,53,3,Texas Tech,59,Texas Tech,2,3
+West,7,Michigan St.,76,2,Duke,85,Duke,2,4
+West,1,Gonzaga,93,16,Georgia St.,72,Gonzaga,1,1
+West,8,Boise St.,53,9,Memphis,64,Memphis,1,2
+West,5,UConn,63,12,New Mexico St.,70,New Mexico St.,1,3
+West,4,Arkansas,75,13,Vermont,71,Arkansas,1,4
+West,6,Alabama,64,11,Notre Dame,78,Notre Dame,1,5
+West,3,Texas Tech,97,14,Montana St.,62,Texas Tech,1,6
+West,7,Michigan St.,74,10,Davidson,73,Michigan St.,1,7
+West,2,Duke,78,15,Cal St. Fullerton,61,Duke,1,8
+South,5,Houston,44,2,Villanova,50,Villanova,4,1
+South,1,Arizona,60,5,Houston,72,Houston,3,1
+South,11,Michigan,55,2,Villanova,63,Villanova,3,2
+South,1,Arizona,85,9,TCU,80,Arizona,2,1
+South,5,Houston,68,4,Illinois,53,Houston,2,2
+South,11,Michigan,76,3,Tennessee,68,Michigan,2,3
+South,7,Ohio St.,61,2,Villanova,71,Villanova,2,4
+South,1,Arizona,87,16,Wright St.,70,Arizona,1,1
+South,8,Seton Hall,42,9,TCU,69,TCU,1,2
+South,5,Houston,82,12,UAB,68,Houston,1,3
+South,4,Illinois,54,13,Chattanooga,53,Illinois,1,4
+South,6,Colorado St.,63,11,Michigan,75,Michigan,1,5
+South,3,Tennessee,88,14,Longwood,56,Tennessee,1,6
+South,7,Ohio St.,54,10,Loyola Chicago,41,Ohio St.,1,7
+South,2,Villanova,80,15,Delaware,60,Villanova,1,8
+East,8,North Carolina,69,15,Saint Peter's,49,North Carolina,4,1
+East,8,North Carolina,73,4,UCLA,66,North Carolina,3,1
+East,3,Purdue,64,15,Saint Peter's,67,Saint Peter's,3,2
+East,1,Baylor,86,8,North Carolina,93,North Carolina,2,1
+East,5,Saint Mary's,56,4,UCLA,72,UCLA,2,2
+East,6,Texas,71,3,Purdue,81,Purdue,2,3
+East,7,Murray St.,60,15,Saint Peter's,70,Saint Peter's,2,4
+East,1,Baylor,85,16,Norfolk St.,49,Baylor,1,1
+East,8,North Carolina,95,9,Marquette,63,North Carolina,1,2
+East,5,Saint Mary's,82,12,Indiana,53,Saint Mary's,1,3
+East,4,UCLA,57,13,Akron,53,UCLA,1,4
+East,6,Texas,81,11,Virginia Tech,73,Texas,1,5
+East,3,Purdue,78,14,Yale,56,Purdue,1,6
+East,7,Murray St.,92,10,San Francisco,87,Murray St.,1,7
+East,2,Kentucky,79,15,Saint Peter's,85,Saint Peter's,1,8
+Midwest,1,Kansas,76,10,Miami (FL),50,Kansas,4,1
+Midwest,1,Kansas,66,4,Providence,61,Kansas,3,1
+Midwest,11,Iowa St.,56,10,Miami (FL),70,Miami (FL),3,2
+Midwest,1,Kansas,79,9,Creighton,72,Kansas,2,1
+Midwest,12,Richmond,51,4,Providence,79,Providence,2,2
+Midwest,11,Iowa St.,54,3,Wisconsin,49,Iowa St.,2,3
+Midwest,10,Miami (FL),79,2,Auburn,61,Miami (FL),2,4
+Midwest,1,Kansas,83,16,Texas Southern,56,Kansas,1,1
+Midwest,8,San Diego St.,69,9,Creighton,72,Creighton,1,2
+Midwest,5,Iowa,63,12,Richmond,67,Richmond,1,3
+Midwest,4,Providence,66,13,South Dakota St.,57,Providence,1,4
+Midwest,6,LSU,54,11,Iowa St.,59,Iowa St.,1,5
+Midwest,3,Wisconsin,67,14,Colgate,60,Wisconsin,1,6
+Midwest,7,USC,66,10,Miami (FL),68,Miami (FL),1,7
+Midwest,2,Auburn,80,15,Jacksonville St.,61,Auburn,1,8

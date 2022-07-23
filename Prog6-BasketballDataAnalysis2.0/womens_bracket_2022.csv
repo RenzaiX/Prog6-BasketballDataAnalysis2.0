@@ -1,0 +1,64 @@
+region,rank1,team1,score1,rank2,team2,score2,winning-team,round-number,game-number
+Championship,1,South Carolina,64,2,UConn,49,South Carolina,6,1
+Final Four,1,South Carolina,72,1,Louisville,59,South Carolina,5,1
+Final Four,1,Stanford,58,2,UConn,63,UConn,5,2
+Greensboro,1,South Carolina,80,10,Creighton,50,South Carolina,4,1
+Greensboro,1,South Carolina,69,5,North Carolina,61,South Carolina,3,1
+Greensboro,3,Iowa St.,68,10,Creighton,76,Creighton,3,2
+Greensboro,1,South Carolina,49,8,Miami (FL),33,South Carolina,2,1
+Greensboro,5,North Carolina,63,4,Arizona,45,North Carolina,2,2
+Greensboro,6,Georgia,44,3,Iowa St.,67,Iowa St.,2,3
+Greensboro,10,Creighton,64,2,Iowa,62,Creighton,2,4
+Greensboro,1,South Carolina,79,16,Howard,21,South Carolina,1,1
+Greensboro,8,Miami (FL),78,9,South Florida,66,Miami (FL),1,2
+Greensboro,5,North Carolina,79,12,SFA,66,North Carolina,1,3
+Greensboro,4,Arizona,72,13,UNLV,67,Arizona,1,4
+Greensboro,6,Georgia,70,11,Dayton,54,Georgia,1,5
+Greensboro,3,Iowa St.,78,14,UT Arlington,71,Iowa St.,1,6
+Greensboro,7,Colorado,74,10,Creighton,84,Creighton,1,7
+Greensboro,2,Iowa,98,15,Illinois St.,58,Iowa,1,8
+Wichita,1,Louisville,52,3,Michigan,50,Louisville,4,1
+Wichita,1,Louisville,76,4,Tennessee,64,Louisville,3,1
+Wichita,3,Michigan,52,10,South Dakota,49,Michigan,3,2
+Wichita,1,Louisville,68,9,Gonzaga,59,Louisville,2,1
+Wichita,12,Belmont,67,4,Tennessee,70,Tennessee,2,2
+Wichita,11,Villanova,49,3,Michigan,64,Michigan,2,3
+Wichita,10,South Dakota,61,2,Baylor,47,South Dakota,2,4
+Wichita,1,Louisville,83,16,Ualbany,51,Louisville,1,1
+Wichita,8,Nebraska,55,9,Gonzaga,68,Gonzaga,1,2
+Wichita,5,Oregon,70,12,Belmont,73,Belmont,1,3
+Wichita,4,Tennessee,80,13,Buffalo,67,Tennessee,1,4
+Wichita,6,BYU,57,11,Villanova,61,Villanova,1,5
+Wichita,3,Michigan,74,14,American,39,Michigan,1,6
+Wichita,7,Ole Miss,61,10,South Dakota,75,South Dakota,1,7
+Wichita,2,Baylor,89,15,Hawaii,49,Baylor,1,8
+Spokane,1,Stanford,59,2,Texas,50,Stanford,4,1
+Spokane,1,Stanford,72,4,Maryland,66,Stanford,3,1
+Spokane,6,Ohio St.,63,2,Texas,66,Texas,3,2
+Spokane,1,Stanford,91,8,Kansas,65,Stanford,2,1
+Spokane,12,FGCU,65,4,Maryland,89,Maryland,2,2
+Spokane,6,Ohio St.,79,3,LSU,64,Ohio St.,2,3
+Spokane,7,Utah,56,2,Texas,78,Texas,2,4
+Spokane,1,Stanford,78,16,Montana St.,37,Stanford,1,1
+Spokane,8,Kansas,77,9,Georgia Tech,58,Kansas,1,2
+Spokane,5,Virginia Tech,81,12,FGCU,84,FGCU,1,3
+Spokane,4,Maryland,102,13,Delaware,71,Maryland,1,4
+Spokane,6,Ohio St.,63,11,Missouri St.,56,Ohio St.,1,5
+Spokane,3,LSU,83,14,Jackson St.,77,LSU,1,6
+Spokane,7,Utah,92,10,Arkansas,69,Utah,1,7
+Spokane,2,Texas,70,15,Fairfield,52,Texas,1,8
+Bridgeport,1,NC State,87,2,UConn,91,UConn,4,1
+Bridgeport,1,NC State,66,5,Notre Dame,63,NC State,3,1
+Bridgeport,3,Indiana,58,2,UConn,75,UConn,3,2
+Bridgeport,1,NC State,89,9,Kansas St.,57,NC State,2,1
+Bridgeport,5,Notre Dame,108,4,Oklahoma,64,Notre Dame,2,2
+Bridgeport,11,Princeton,55,3,Indiana,56,Indiana,2,3
+Bridgeport,7,UCF,47,2,UConn,52,UConn,2,4
+Bridgeport,1,NC State,96,16,Longwood,68,NC State,1,1
+Bridgeport,8,Washington St.,40,9,Kansas St.,50,Kansas St.,1,2
+Bridgeport,5,Notre Dame,89,12,Massachusetts,78,Notre Dame,1,3
+Bridgeport,4,Oklahoma,78,13,IUPUI,72,Oklahoma,1,4
+Bridgeport,6,Kentucky,62,11,Princeton,69,Princeton,1,5
+Bridgeport,3,Indiana,85,14,Charlotte,51,Indiana,1,6
+Bridgeport,7,UCF,69,10,Florida,52,UCF,1,7
+Bridgeport,2,UConn,83,15,Mercer,38,UConn,1,8

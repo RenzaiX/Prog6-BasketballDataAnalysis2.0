@@ -1,0 +1,64 @@
+region,rank1,team1,score1,rank2,team2,score2,winning-team,round-number,game-number
+Championship,1,Gonzaga,70,1,Baylor,86,Baylor,6,1
+Final Four,1,Gonzaga,93,11,UCLA,90,Gonzaga,5,1
+Final Four,1,Baylor,78,2,Houston,59,Baylor,5,2
+West,1,Gonzaga,85,6,USC,66,Gonzaga,4,1
+West,1,Gonzaga,83,5,Creighton,65,Gonzaga,3,1
+West,6,USC,82,7,Oregon,68,USC,3,2
+West,1,Gonzaga,87,8,Oklahoma,71,Gonzaga,2,1
+West,5,Creighton,72,13,Ohio,58,Creighton,2,2
+West,6,USC,85,3,Kansas,51,USC,2,3
+West,7,Oregon,95,2,Iowa,80,Oregon,2,4
+West,1,Gonzaga,98,16,Norfolk St.,55,Gonzaga,1,1
+West,8,Oklahoma,72,9,Missouri,68,Oklahoma,1,2
+West,5,Creighton,63,12,UCSB,62,Creighton,1,3
+West,4,Virginia,58,13,Ohio,62,Ohio,1,4
+West,6,USC,72,11,Drake,56,USC,1,5
+West,3,Kansas,93,14,Eastern Wash.,84,Kansas,1,6
+West,7,Oregon,,10,VCU,,Oregon,1,7
+West,2,Iowa,86,15,Grand Canyon,74,Iowa,1,8
+South,1,Baylor,81,3,Arkansas,72,Baylor,4,1
+South,1,Baylor,62,5,Villanova,51,Baylor,3,1
+South,3,Arkansas,72,15,ORU,70,Arkansas,3,2
+South,1,Baylor,76,9,Wisconsin,63,Baylor,2,1
+South,5,Villanova,84,13,North Texas,61,Villanova,2,2
+South,6,Texas Tech,66,3,Arkansas,68,Arkansas,2,3
+South,7,Florida,78,15,ORU,81,ORU,2,4
+South,1,Baylor,79,16,Hartford,55,Baylor,1,1
+South,8,North Carolina,62,9,Wisconsin,85,Wisconsin,1,2
+South,5,Villanova,73,12,Winthrop,63,Villanova,1,3
+South,4,Purdue,69,13,North Texas,78,North Texas,1,4
+South,6,Texas Tech,65,11,Utah St.,53,Texas Tech,1,5
+South,3,Arkansas,85,14,Colgate,68,Arkansas,1,6
+South,7,Florida,75,10,Virginia Tech,70,Florida,1,7
+South,2,Ohio St.,72,15,ORU,75,ORU,1,8
+East,1,Michigan,49,11,UCLA,51,UCLA,4,1
+East,1,Michigan,76,4,Florida St.,58,Michigan,3,1
+East,11,UCLA,88,2,Alabama,78,UCLA,3,2
+East,1,Michigan,86,8,LSU,78,Michigan,2,1
+East,5,Colorado,53,4,Florida St.,71,Florida St.,2,2
+East,11,UCLA,67,14,Abil. Christian,47,UCLA,2,3
+East,10,Maryland,77,2,Alabama,96,Alabama,2,4
+East,1,Michigan,82,16,Texas Southern,66,Michigan,1,1
+East,8,LSU,76,9,St. Bonaventure,61,LSU,1,2
+East,5,Colorado,96,12,Georgetown,73,Colorado,1,3
+East,4,Florida St.,64,13,UNC Greensboro,54,Florida St.,1,4
+East,6,BYU,62,11,UCLA,73,UCLA,1,5
+East,3,Texas,52,14,Abil. Christian,53,Abil. Christian,1,6
+East,7,UConn,54,10,Maryland,63,Maryland,1,7
+East,2,Alabama,68,15,Iona,55,Alabama,1,8
+Midwest,12,Oregon St.,61,2,Houston,67,Houston,4,1
+Midwest,8,Loyola Chi.,58,12,Oregon St.,65,Oregon St.,3,1
+Midwest,11,Syracuse,46,2,Houston,62,Houston,3,2
+Midwest,1,Illinois,58,8,Loyola Chi.,71,Loyola Chi.,2,1
+Midwest,12,Oregon St.,80,4,Oklahoma St.,70,Oregon St.,2,2
+Midwest,11,Syracuse,75,3,West Virginia,72,Syracuse,2,3
+Midwest,10,Rutgers,60,2,Houston,63,Houston,2,4
+Midwest,1,Illinois,78,16,Drexel,49,Illinois,1,1
+Midwest,8,Loyola Chi.,71,9,Georgia Tech,60,Loyola Chi.,1,2
+Midwest,5,Tennessee,56,12,Oregon St.,70,Oregon St.,1,3
+Midwest,4,Oklahoma St.,69,13,Liberty,60,Oklahoma St.,1,4
+Midwest,6,San Diego St.,62,11,Syracuse,78,Syracuse,1,5
+Midwest,3,West Virginia,84,14,Morehead St.,67,West Virginia,1,6
+Midwest,7,Clemson,56,10,Rutgers,60,Rutgers,1,7
+Midwest,2,Houston,87,15,Cleveland St.,56,Houston,1,8
